@@ -1,0 +1,4 @@
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/CMakeFiles/list.dir
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/CMakeFiles/app1.dir
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/CMakeFiles/rebuild_cache.dir

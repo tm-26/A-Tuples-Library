@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/Functionsb.h
+
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/TupleFunctionsb.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+Functionsb.h
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/Functionsb.h
+sgets.h
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/sgets.h
+
+C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/sgets.h
+

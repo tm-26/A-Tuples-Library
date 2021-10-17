@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="A_Tuples_library"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list">
+				<Option output="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/liblist.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Win-builds/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 list"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list/fast">
+				<Option output="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/liblist.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Win-builds/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 list/fast"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app1">
+				<Option output="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/app1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Win-builds/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 app1"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app1/fast">
+				<Option output="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/app1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Win-builds/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 app1/fast"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/Functionsa.h">
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/Functionsb.h">
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/TupleFunctionsa.c">
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/TupleFunctionsb.c">
+			<Option target="list"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/main.c">
+			<Option target="app1"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/maina.c">
+			<Option target="app1"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/mainb.c">
+			<Option target="app1"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/sgets.c">
+			<Option target="app1"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/sgets.h">
+			<Option target="app1"/>
+		</Unit>
+		<Unit filename="C:/Users/sammu/Documents/UoM/Programming Principles In C/Code/Assignment/A Tuples library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
